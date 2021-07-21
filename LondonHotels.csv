@@ -1,0 +1,72 @@
+ID,Name,Address,Borough,Postcode,Reviews,Price for 3 Nights (£),Lat,Long
+0,DoubleTree by Hilton London Angel Kings Cross,60 Pentonville Road,Islington,N1 9LA,4.2,217,NaN,NaN
+1,Ibis Budget London Hounslow,20-28 Staines Road,Hounslow,TW3 3JS,3.5,104,NaN,NaN
+2,Treehouse Hotel London,"Langham Place, Regent Street",Westminster,W1B 2QS,4.4,1046,NaN,NaN
+3,The Resident Covent Garden,51 Bedford Street,Westminster,WC2R 0PZ,4.9,668,NaN,NaN
+4,The Trafalgar St. James London,"2 Spring Gardens, Trafalgar Square",Westminster,SW1A 2TS,4.7,713,NaN,NaN
+5,"The Soho Hotel, Firmdale Hotels","4 Richmond Mews, Dean Street",Westminster,W1D 3DH,4.9,1701,NaN,NaN
+6,The Savoy,Strand,Westminster,WC2R 0EZ,4.8,1525,NaN,NaN
+7,Sofitel London St James,6 Waterloo Place,Westminster,SW1Y 4AN,4.7,1056,NaN,NaN
+8,"Covent Garden Hotel, Firmdale Hotels","10 Monmouth Street, Covent Garden",Camden,WC2H 9HB,4.8,1838,NaN,NaN
+9,"The Clermont London, Charing Cross",The Strand,Westminster,WC2N 5HX,4.6,623,NaN,NaN
+10,St Martins Lane London,45 St Martin's Lane,Westminster,WC2N 4DB,4.6,1141,NaN,NaN
+11,Hotel Café Royal,68 Regent Street,Westminster,W1B 4DY,4.7,1670,NaN,NaN
+12,One Aldwych,1 Aldwych,Westminster,WC2B 4BZ,4.7,1589,NaN,NaN
+13,Great Scotland Yard Hotel,3-5 Great Scotland Yard,Westminster,SW1A 2HN,4.7,1512,NaN,NaN
+14,Radisson Blu Edwardian Hampshire Hotel,31-36 Leicester Square,Westminster,WC2H 7LH,4.5,1536,NaN,NaN
+15,Taj 51 Buckingham Gate,51 Buckingham Gate,Westminster,SW1E 6AF,4.8,1380,NaN,NaN
+16,The London EDITION,10 Berners Street,Westminster,W1T 3NP,4.8,1798,NaN,NaN
+17,41,41 Buckingham Palace Road,Westminster,SW1W 0PS,4.9,2604,NaN,NaN
+18,"Club Quarters Hotel, Trafalgar Square",8 Northumberland Ave,Westminster,WC2N 5BY,4.4,415,NaN,NaN
+19,L'oscar London,"2 Southampton Row, Bloomsbury",Camden,WC1B 4AA,4.8,2079,NaN,NaN
+20,Rocco Forte Brown's Hotel,"33 Albemarle Street, Mayfair",Westminster,W1S 4BP,4.7,1649,NaN,NaN
+21,Radisson Blu Edwardian Mercer Street Hotel,"20 Mercer Street, Covent Garden",Westminster,WC2H 9HD,4.6,635,NaN,NaN
+22,Charlotte Street Hotel,"15-17 Charlotte Street, Fitzrovia",Camden,W1T 1RJ,4.8,1559,NaN,NaN
+23,ME London,336-337 The Strand,Westminster,WC2R 1HA,4.6,1049,NaN,NaN
+24,The Royal Horseguards,2 Whitehall Court,Westminster,SW1A 2EJ,4.4,832,NaN,NaN
+25,9 Hertford Street,"9 Hertford Street, Mayfair",Westminster,W1J 7RJ,4.8,1128,NaN,NaN
+26,The Stafford London,"16-18 St. James's Place, St. James's",Westminster,SW1A 1NJ,4.6,1364,NaN,NaN
+27,Sonder at Covent Garden,"King Street, Garrick Street ",Westminster,WC2E 8JD,4.6,2296,NaN,NaN
+28,"The Lanesborough, Oetker Collection",Hyde Park Corner,Westminster,SW1X 7TA,4.9,2504,NaN,NaN
+29,Conrad London St. James,22-28 Broadway,Westminster,SW1H 0BH,4.6,740,NaN,NaN
+30,The Ritz London,150 Piccadilly,Westminster,W1J 9BR,4.6,6561,NaN,NaN
+31,Cove Arne Street,"4 Arne Street, Covent Garden",Westminster,WC2E 9FE,4.6,1204,NaN,NaN
+32,The Cavendish London,"81 Jermyn Street, St James's",Westminster,SW1Y 6JF,4.5,1119,NaN,NaN
+33,Four Seasons Hotel London ,"Hamilton Place, Park Lane",Westminster,W1J 7DR,4.8,3360,NaN,NaN
+34,Rosewood London,252 High Holborn,Camden,WC1V 7EN,4.7,1196,NaN,NaN
+35,The Chesterfield Mayfair,35 Charles Street,Westminster,W1J 5EB,4.7,1140,NaN,NaN
+36,Bankside Hotel,"2 Blackfriars Road, Upper Ground",Southwark,SE1 9JU,4.8,717,NaN,NaN
+37,St. Ermin’s Hotel,2 Caxton Street,Westminster,SW1H 0QW,4.6,742,NaN,NaN
+38,The Bloomsbury,16-22 Great Russell Street,Camden,WC1B 3NN,4.6,888,NaN,NaN
+39,The Montague On The Gardens,15 Montague Street,Westminster,WC1B 5BJ,4.7,763,NaN,NaN
+40,No.5 Maddox Street,"5 Maddox Street, Mayfair",Westminster,W1S 2QD,4.6,1150,NaN,NaN
+41,The Resident Soho,10 Carlisle Street,Westminster,W1D 3BR,4.5,478,NaN,NaN
+42,Apex Temple Court Hotel,"1-2 Serjeants Inn, Fleet Street",City of London,EC4Y 1AG,4.7,3177,NaN,NaN
+43,"The Langham, London","1C Portland Place, Regent Street",Westminster,W1B 1JA,4.7,2310,NaN,NaN
+44,47 Park Street,"47 Park Street, Mayfair",Westminster,W1K 7EB,4.8,2103,NaN,NaN
+45,Citadines Trafalgar Square London,18/21 Northumberland Avenue,Westminster,WC2N 5EA,4.2,790,NaN,NaN
+46,The Resident Victoria,10 Palace Place,Westminster,SW1E 5BW,4.6,475,NaN,NaN
+47,The Clerk & Well Pub & Rooms,156 Clerkenwell Road,Islington,EC1R 5DU,4.8,634,NaN,NaN
+48,St. James Hotel and Club Mayfair,"7-8 Park Place, St. James's",Westminster,SW1A 1LS,4.4,1197,NaN,NaN
+49,Sonder at The Arts Council,14 Great Peter Street,Westminster,SW1P 3NQ,4.7,1076,NaN,NaN
+50,St. James' Court,54 Buckingham Gate,Westminster,SW1E 6AF,4.5,780,NaN,NaN
+51,The Rubens at the Palace,39 Buckingham Palace Road,Westminster,SW1W 0PS,4.6,883,NaN,NaN
+52,45 Park Lane,"45 Park Lane, Mayfair",Westminster,W1K 1PN,4.7,2565,NaN,NaN
+53,London Marriott Hotel County Hall,"London County Hall, Westminster Bridge Road",Southwark,SE1 7PB,4.4,912,NaN,NaN
+54,Hilton London Bankside,2-8 Great Suffolk Street,Southwark,SE1 0UG,4.7,745,NaN,NaN
+55,W London,"10 Wardour Street, Soho",Westminster,W1D 6QF,4.2,984,NaN,NaN
+56,The Hoxton Southwark,Blackfriars Road 32- 40,Southwark,SE1 8NY,4.6,564,NaN,NaN
+57,Park Plaza County Hall London,1 Addington Street,Lambeth,SE1 7RY,4.4,478,NaN,NaN
+58,The Fielding Hotel,"4 Broad Court, Bow Street, Covent Garden",Westminster,WC2B 5QZ,4.3,738,NaN,NaN
+59,Kimpton Fitzroy London,"1-8 Russell Square, Bloomsbury",Camden,WC1B 5BE,4.6,887,NaN,NaN
+60,Club Quarters Lincoln's Inn Fields,61 Lincoln's Inn Fields,Camden,WC2A 3JW,4.4,488,NaN,NaN
+61,Staybridge Suites London,100 Vauxhall Walk,Lambeth,SE11 5EL,4.7,560,NaN,NaN
+62,SACO Fitzrovia,21 Tottenham Street,Camden,W1T 2AW,4.5,517,NaN,NaN
+63,InterContinental London Park Lane,"1 Hamilton Place, Park Lane",Westminster,W1J 7QY,4.5,910,NaN,NaN
+64,The May Fair,"Stratton Street, Mayfair",Westminster,W1J 8LT,4.3,905,NaN,NaN
+65,The Cadogan,"75 Sloane Street, Chelsea",Kensington & Chelsea,SW1X 9SG,4.8,2429,NaN,NaN
+66,"The Waldorf Hilton, London",Aldwych,Westminster,WC2B 4DD,4.2,852,NaN,NaN
+67,Radisson Blu Edwardian Bloomsbury Street Hotel,"9-13 Bloomsbury Street, Bloomsbury",Camden,WC1B 3QD,4.3,483,NaN,NaN
+68,The Piccadilly London West End,"65-73 Shaftesbury Avenue, Piccadilly",Westminster,W1D 6EX,4.1,901,NaN,NaN
+69,Flemings Mayfair,"7-12 Half Moon Street, Mayfair",Westminster,W1J 7BH,4.3,1046,NaN,NaN
+70,Hampton by Hilton London Waterloo,"157 Waterloo Road, Waterloo",Lambeth,SE1 8XA,4.4,346,NaN,NaN
